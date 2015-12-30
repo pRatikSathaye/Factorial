@@ -1,1 +1,4 @@
-Hello Machhindra
+Hello Machhindra...
+
+Adding new line in mac's file
+Hi mac how are you?
