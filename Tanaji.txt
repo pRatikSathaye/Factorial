@@ -1,7 +1,6 @@
 Hello "Tanaji"
 
-<<<<<<< HEAD
 Hello "Mindscrub"
-=======
+
 Modified by Rajesh
->>>>>>> 0065cfa77eeef7098f5b7d608e20b90ddf596692
+
